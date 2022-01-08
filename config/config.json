@@ -1,0 +1,20 @@
+{
+  "OWNER_ADDRESS": "0xd1bAf5C017e8BaB2ADB7599c497EF19A4B2721e1",
+  "CONTRACT_ADDRESS": "0x765d37483543751a18FEccDd4BeBde7354De5363",
+
+  "SCAN_LINK": "https://polygonscan.com",
+  "NETWORK": {
+    "NAME": "Mumbai testnet",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "Fallen Flowers",
+  "SYMBOL": "FF",
+  "MAX_SUPPLY": 2800,
+  "WEI_COST": 30000000000000000,
+  "DISPLAY_COST": 0.03,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/FallenFlowers",
+  "SHOW_BACKGROUND": true
+}
